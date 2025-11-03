@@ -41,14 +41,14 @@ pip install cli-botx
 
 ## Usage
 
-Run from the terminal
+Run from the terminal<br>
 Once installed, simply type:
 
 ```bash
   cli-botx
 ```
 
-Or run locally
+Or run locally<br>
 If running the script directly from source:
 
 ```bash
