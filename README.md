@@ -1,4 +1,5 @@
 # CLI Bot
+[![PyPI version](https://badge.fury.io/py/cli-botx.svg)](https://pypi.org/project/cli-botx/)
 
 A simple **command-line assistant built with Python**, designed to perform everyday tasks directly from the terminal — from opening websites and searching Google to managing tasks and doing quick calculations.
 
@@ -30,7 +31,7 @@ A simple **command-line assistant built with Python**, designed to perform every
 
 ## Installation
 
-You can install the package directly from **PyPI**:
+You can install the package directly from **PyPI**: [https://pypi.org/project/cli-botx](https://pypi.org/project/cli-botx)
 
 ```bash
 pip install cli-botx
@@ -135,5 +136,4 @@ git push origin feature-name
 
 # 5. Open a Pull Request
 ```
-
 ---
